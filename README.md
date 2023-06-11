@@ -2,7 +2,7 @@
 
 ### Test_src folder
 
-Contains the code for inference. First make sure you have the weights and the config file available. Then change the paths in the file test_src/test.py.
+Contains the code for inference. First make sure you have the weights and the config file available. Then change the paths in the file test_src/test.py. Download the classification weights from [here](https://drive.google.com/drive/folders/17gX2I5O8zP-LCdwC0j6WoomOb07x4zaL?usp=drive_link) and the segmentation weights from [here](https://drive.google.com/uc?id=1LNMQ6TGf1QaCjMgTExPzl7lFFs-yZyqX)
 
 ```
 # Change these paths accordingly in your system
