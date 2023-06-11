@@ -1,0 +1,6 @@
+device: cpu
+model_name: Unet
+dataset_path: ../dataset
+train_batch_size: 8
+valid_batch_size: 8
+num_epochs: 5

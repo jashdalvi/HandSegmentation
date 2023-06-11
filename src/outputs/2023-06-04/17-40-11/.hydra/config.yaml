@@ -1,0 +1,7 @@
+device: cpu
+model_name: Unet
+encoder_name: resnet34
+dataset_path: ../dataset
+train_batch_size: 8
+valid_batch_size: 8
+num_epochs: 5
